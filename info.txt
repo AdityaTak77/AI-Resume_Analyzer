@@ -1,0 +1,24 @@
+#Google api key
+
+python -m venv myenv
+source myenv/bin/activate
+deactivate
+
+pip freeze > requirements.txt
+
+python -m streamlit run app.py
+
+rm -rf .git
+
+git init
+echo "myenv/" >> .gitignore
+git add .gitignore
+git add .
+git commit -m "Initial commit: AI_resume_analyzer"
+git remote add origin https://github.com/[your-username]/video-recommender.git
+git branch -M main
+git push -u origin main
+
+then generate and PAT from github
+git push -u origin main 
+git push -u origin main --force

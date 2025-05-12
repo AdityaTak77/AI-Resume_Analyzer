@@ -1,0 +1,47 @@
+About the job
+Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+
+Job Description
+
+Principal Responsibilities
+
+ Learn and understand Software Development Life Cycle (SDLC) for a multi-national product company.
+ Develop software components to support new devices within RA’s software ecosystem.
+ Participate in day-to-day software development activities in a global and diverse team. Minimum Qualifications
+ Pursuing or Completed Bachelor’s degree in Engineering in Computer Science, Information Technology, Electronics, or another similar field.
+ More than 8 CGPA at graduation level academics.
+ First Class with Distinction at 10th and 10+2 level academics.
+ Solve complex programming problems using object-oriented languages like C++, C#, or Python. OR
+ Able to create web components using Angular, Node.
+ Hands-on experience in software development in Microsoft tool ecosystem (Visual Studio) Good To Have
+ Experience in software programming through any academic project.
+ Experience working with teams developing Robotics or Control Systems. Our Offer
+ Interesting projects
+ Professional work environment with a high emphasis on product quality
+ Opportunities for development of professional skills
+ Great benefits package
+ Multinational work environment.
+
+Benefits
+
+The ability to collaborate with, learn from colleagues in a complex, global organization.
+
+We provide a working environment with a creative company, paired with a great compensation package, great benefits, and a supportive atmosphere where you can sharpen with new challenges and development opportunities.
+
+Hybrid work-from-home and at a determined Rockwell Automation facility.
+
+Corporate Social Responsibility opportunities,
+
+Support from our 24/7 employee assistance program.
+
+Reporting will to Technical Lead.
+
+Primary work location Pune, India.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.
+
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles.
+
+Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.

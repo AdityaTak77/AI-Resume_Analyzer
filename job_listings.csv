@@ -1,0 +1,613 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"gd-1009552394313","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009552394313","","Senior Data Scientist","Mastercard","Gurgaon","2024-12-04","","direct_data","yearly",200000.0,480000.0,"INR",False,"","","organic","","Our Purpose*Mastercard powers economies and empowers people in 200\+ countries and territories worldwide. Together with our customers, we’re helping build* *a sustainable economy* *where everyone can prosper. We support a wide range of digital payments choices, making* *transactions secure,* *simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.*
+Title and Summary
+Senior Data Scientist
+Senior Data Scientist – Data \& Analytics  
+
+Our Purpose  
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.  
+
+Job Title  
+
+Senior Data Scientist  
+
+Who is Mastercard?  
+
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.  
+
+Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.  
+
+  
+
+Our Team:  
+
+As consumer preference for digital payments continues to grow, ensuring a seamless and secure consumer experience is top of mind. Optimization Solutions team focuses on tracking of digital performance across all products and regions, understanding the factors influencing performance and the broader industry landscape. This includes delivering data\-driven insights and business recommendations, engaging directly with key external stakeholders on implementing optimization solutions (new and existing), and partnering across the organization to drive alignment and ensure action is taken.  
+
+* Are you excited about Data Assets and the value they bring to an organization?
+* Are you an evangelist for data\-driven decision\-making?
+* Are you motivated to be part of a team that builds large\-scale Analytical Capabilities supporting end users across 6 continents?
+* Do you want to be the go\-to resource for data science \& analytics in the company?
+
+  
+
+The Role:  
+
+  
+
+Work closely in collaboration with multiple internal business groups across Mastercard to implement End\-to\-End customer lifecycle solutions whilst utilizing Reltio.  
+
+The candidate for this position will focus on Building End\-to\-End solution using Reltio/Databricks to blend data from multiple data sources (Salesforce, BigData, SQL Server) and creating actionable insights to transform siloed data from disparate sources into unified, trusted and interoperable data.  
+
+Candidate should have a strong understanding of data management concepts and experience working with the Reltio platform. Candidate should have a solid understanding of cloud\-based systems and should be able to work effectively in a team environment. Strong communication and collaboration skills are also important.  
+
+  
+
+Creating design documents, including data models, data flow diagrams, and system architecture diagrams.  
+
+  
+
+All about You  
+
+* A superior academic record at a leading university in Computer Science, Data Science, Technology, mathematics, statistics, or a related field or equivalent work experience
+* 5\+ Years of experience in using Python/Spark, Hadoop platforms \& tools (Hive, Impala), and SQL to build Big Data products \& platforms
+* 1\+ Years experience working on end\-to\-end solutions using Reltio. Must have experience working on at least one end\-to\-end project on Reltio.
+* Ability to tune Reltio to meet performance requirements. Familiar with Data Cleansing, Data Quality, Data Governance and Data Migration concepts.
+* Familiarity with data integration technologies and techniques, including RIH processes, data pipelines, and data transformation.
+* Demonstrated success interacting with stakeholders to understand technical needs and ensuring analyses and solutions meet their needs effectively.
+* Able to work in a fast\-paced, deadline\-driven environment as part of a team and as an individual contributor.
+* Ability to easily move between business, analytical, and technical teams and articulate solution requirements for each group.
+* Experience with Enterprise Business Intelligence Platform/Data platform i.e. Tableau, PowerBI will be a plus.
+* Experience with cloud\-based (SaaS) solutions, ETL processes or API integrations will be a plus.
+* Experience on Cloud Data Platforms Azure/AWS will be a plus.
+
+  
+
+Education  
+
+* Bachelor’s or Master’s Degree in a Computer Science, Information Technology, Engineering, Mathematics, Statistics, M.S./M.B.A. preferred
+
+  
+
+Additional Competencies  
+
+* Excellent English, quantitative, technical, and communication (oral/written) skills
+* Analytical/Problem Solving
+* Strong attention to detail and quality
+* Creativity/Innovation
+* Self\-motivated, operates with a sense of urgency
+* Project Management/Risk Mitigation
+* Able to prioritize and perform multiple tasks simultaneously
+
+
+Corporate Security Responsibility  
+
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:* Abide by Mastercard’s security policies and practices;
+* Ensure the confidentiality and integrity of the information being accessed;
+* Report any suspected information security violation or breach, and
+* Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.","","https://www.glassdoor.com/Overview/W-EI_IE3677.htm","https://media.glassdoor.com/sql/3677/mastercard-squarelogo-1468516067022.png","","","","",""
+"gd-1009550779348","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009550779348","","Computer Vision Engineer","Humonics Global","Gurgaon","2024-12-03","","","","","","",False,"","","organic","","Computer Vision Engineer (Deep Learning and Artificial Intelligence)
+
+Job Description
+
+We aim to bring about a new paradigm in medical image diagnostics; providing intelligent, holistic, ethical, explainable and patient centric care. We are looking for innovative problem solvers who love solving problems. We want people who can empathize with the consumer, understand business problems and design and deliver intelligent products. People who are looking to extend artificial intelligence into unexplored areas. Your primary focus will be in applying deep learning and artificial intelligence techniques to the domain of medical image analysis.
+
+Responsibilities
+
+* Working with various forms of medical image data from radiology and pathology, including X\-Rays, CT\-Scans, MRIs among others.
+* Selecting features, building and optimizing classifier engines using deep learning techniques.
+* Understanding the problem and applying the suitable image processing techniques
+* Use techniques from artificial intelligence/deep learning to solve supervised and unsupervised learning problems.
+* Understanding and designing solutions for complex problems related to medical image analysis by using Deep Learning/Object Detection/Image Segmentation.
+* Recommend and implement best practices around application of statistical modelling.
+* Create, train, test and deploy various neural networks to solve complex problems.
+* Develop and implement solutions to fit business problems which may include applying algorithms from a standard statistical tool, deep learning or custom algorithm development.
+
+Skills and Qualifications
+
+* Excellent understanding and hands\-on of Deep Learning techniques such as ANN, CNN, RNN, LSTM, Transformers, VAEs etc.
+* Must have experience with Tensorflow or PyTorch framework in building, training, testing and deploying neural networks
+* Experience with medical image analysis.
+* Experience in solving problems in the domain Computer Vision.
+* Knowledge of data, data augmentation, data curation and synthetic data generation.
+* Ability to understand the complete problem and design the solutions that best fits all the constraints.
+* Knowledge of the common data science and deep learning libraries and toolkits such as Keras, Pandas, Scikit\-learn, Numpy, Scipy, OpenCV etc.
+* Experience working with DICOM files will be an advantage.
+* Good, applied statistical skills, such as distributions, statistical testing, regression, etc.
+* Excellent verbal and written communication skills
+* Excellent analytical and problem\-solving skills with good attitude and keen to adapt evolving technologies.
+
+Education: BE/B Tech MS/M Tech
+
+Experience: 3\+ Years
+
+Job Type: Full\-time
+
+Schedule:
+
+* Monday to Friday
+
+Ability to commute/relocate:
+
+* Gurugram, Haryana: Reliably commute or planning to relocate before starting work (Preferred)
+
+Application Question(s):
+
+* Do you have any experience working with medical image data ?
+
+Experience:
+
+* total work: 3 years (Required)
+
+Work Location: In person","","","","","","","",""
+"gd-1009549732623","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009549732623","","Data Scientist and GenAI Consultant - T2/T3/T4","SAP","Gurgaon","2024-12-03","","direct_data","yearly",400000.0,500000.0,"INR",False,"","","organic","Careers@sap.com","**We help the world run better**
+
+
+Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose\-driven and future\-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from. Apply now!
+
+ **Meet your team**  
+
+  
+
+At SAP, we are enabling our customers to become Intelligent Enterprises by integrating data and processes, building flexible value chains, innovating with industry best practices, providing our customers with the ability to understand and act on their customer, partner, and employee sentiment, and how to manage their environmental impact — to grow more resilient, more profitable, and more sustainable”
+
+
+While we touch 70% of the world’s transactions, our customer would like to leverage the data and take business decision. SAP provides technology support and platform the do the same. SAP vision’s support responsible AI built on leading ethics and data privacy standards while maintaining full governance and lifecycle management for our customers. As part of SAP revised strategy, Generative AI is a transformer and a key contributor in improving the business process within and across SAP enterprise solution and bring enhanced value to our customers.
+
+
+We at SAP Customer Success Services team\- BTP Delivery@Scale, build or augment application leveraging AI/ML to support their business objective. AI brings in improvement the efficiency and reduction in errors over time for a business process. We are looking for Data scientist and GenAI Expert, you have strong expertise in developing ML models for customer specific business scenarios.
+
+  
+
+
+
+**What you'll do**
+
+  
+
+* Guide customers and drive discussions with them to build AI/ML/Generative AI scenarios and finalise expected business outcomes.
+* Drive requirement gathering discussions with customer’s business owners and propose relevant AI/ML/Generative AI use cases to solve business problems.
+* Create system architecture for complex and scalable AI/ML solutions.
+* Develop and put the AI/ML/Generative AI models in production to serve multiple enterprise customers
+* Lead/contribute to developing end\-to\-end AI/ML/Generative AI solutions, not restrictive to only algorithms.
+* Drive AI/ML/Generative AI initiatives leveraging SAP AI eco system.
+* Lead/work closely with other data scientists/experts and teams to deliver solutions for customers’ AI adoption journey.
+
+ *SKILLS REQUIRED:*
+
+  
+
+* 6\-12 years of relevant experience in AI/ML/Generative AI field.
+* Willingness to interact with customers and passionate to solve business problems.
+* Strong focus on delivering business values to customers.
+* Experience in implementing scalable AI/ML solutions.
+* Generative AI expertise
+	+ Experience/good understanding of Generative AI Concepts and implementations.
+	+ Experience in Generative AI technology platform offerings, frameworks(Open source Langchain/LlamaIndex, other 3rd party platforms) and tools.
+	+ Good Experience in Prompt Engineering techniques.
+	+ Hands\-on experience in vector databases, and advanced RAG.
+	+ Understanding of Knowledge Graphs is a plus.
+	+ Strong inclination to learn and experiment with new concepts and technologies in Generative AI space.
+* Proficiency in ML technologies/libraries like Scikit\-learn, Pytorch, Tensorflow etc.
+* Proficient in one or more programming languages (Python OOP is must)
+* Very strong practical hand\-on NLP technology usage knowhow (apply in business context)
+* Experience in developing and productizing scalable AI solutions.
+* Strong data exploration, cleansing, transformation, feature engineering skills
+* Experience in MLOps/LLMOps on any Cloud platform.
+* Familiarity with code management tools like Git, GitHub etc.
+* Familiarity with cloud computing and cloud native technologies (e.g. Docker, K8S etc.)
+* Communication skills with the ability to communicate appropriately with customers in various situations.
+* Ability to bring forth new ideas and drive them to execution.
+* Knowledge of SAP products and solutions, e.g. S4/HANA, SAP BTP, SuccessFactors, Ariba etc.
+
+ *EDUCATION*:
+
+
+B.E./B.Tech./M.Tech./MCA in Computer Science or Master’s in data Analytics/Data Science or equivalent degree.
+
+  
+
+\#TechConsultantT1
+
+
+\#TechConsultantT2
+
+
+\#SAPBTPCareers
+
+
+\#SAPAICareers
+
+
+\#SAPBTPDSCareers
+
+**We build breakthroughs together**
+
+
+SAP innovations help more than 400,000 customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end\-to\-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with 200 million users and more than 100,000 employees worldwide, we are purpose\-driven and future\-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, we build breakthroughs, together.
+
+**We win with inclusion**
+
+
+SAP’s culture of inclusion, focus on health and well\-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.  
+
+SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e\-mail with your request to Recruiting Operations Team: Careers@sap.com  
+
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+
+**EOE AA M/F/Vet/Disability:**
+
+
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.  
+
+Successful candidates might be required to undergo a background verification with an external vendor.
+
+
+Requisition ID: 388341 \| Work Area: Consulting and Professional Services \| Expected Travel: 0 \- 10% \| Career Status: Professional \| Employment Type: Regular Full Time \| Additional Locations: \#LI\-Hybrid.","","https://www.glassdoor.com/Overview/W-EI_IE10471.htm","https://media.glassdoor.com/sql/10471/sap-squareLogo-1658433034046.png","","","","",""
+"gd-1009549385658","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009549385658","","Junior Deep Learning Engineer","Dataviv Technologies","Gurgaon","2024-12-02","","direct_data","monthly",20000.0,30000.0,"INR",False,"","","organic","","**Job Description:** We seek a highly skilled and experienced Senior Deep Learning Engineer to join our dynamic team. The ideal candidate will have a strong background in deep learning, machine learning, and AI, with proven experience in leading complex projects and developing cutting\-edge AI solutions.
+
+**Key Responsibilities:**
+
+* Develop and optimize machine learning models for computer vision tasks, including object detection, image classification and anomaly detection.
+* Implement natural language processing techniques for AI\-assisted applications.
+* Continuously improve model performance through iterative testing and refinement.
+* Collaborate with the software engineering team to integrate ML models into the overall system architecture.
+
+**Required Skills and Experience:**
+
+* Bachelor's degree in Computer Science, Engineering, or a related field. A Master’s degree is a plus.
+* Minimum of 1\+ years of experience in machine learning and deep learning, with a focus on computer vision, NLP, and neural networks.
+* Proficiency in programming languages such as Python and experience with ML libraries such as TensorFlow, PyTorch, or sci\-kit\-learn.
+* Familiarity with databases such as PostgreSQL, MySQL, MongoDB, and Redis.
+* Strong knowledge of backend frameworks like FastAPI, Django, and SQLAlchemy.
+* Familiarity with message queues like Kafka, Redis Queue, and RabbitMQ.
+
+Job Type: Full\-time
+
+Pay: ₹20,000\.00 \- ₹30,000\.00 per month
+
+Benefits:
+
+* Paid time off
+
+Schedule:
+
+* Day shift
+
+Supplemental Pay:
+
+* Overtime pay
+
+Experience:
+
+* total work: 1 year (Required)
+
+Work Location: In person","","https://www.glassdoor.com/Overview/W-EI_IE645326.htm","","","","","",""
+"gd-1009548945047","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009548945047","","Data Scientist","Intellismith","Gurgaon","2024-12-02","","direct_data","yearly",800000.0,1800000.0,"INR",False,"","","organic","","As a leading outsourcing partner, We are hiring proficient and confident **Data Scientists** to work on project for our esteemed client, which is one of the largest telecom and mobile money services provider in 14 countries in Sub\-Saharan, Central, and Western Africa.
+
+**Job Details**
+
+* **Experience Required:** 6\-8 years of experience in a data science/ data analytics role.
+* **Qualifications**: BE/B.Tech/Graduation in computer science or related field.
+* **Location:** Gurugram
+* **Salary Bracket :** Max upto 18 LPA
+* **Notice Period:** Immediate to 15 days (Candidates with a notice period of less than 30 days are preferred).
+
+**Mandatory Skills:** SQL, Python
+
+**Required skills and qualifications:**
+
+* Experience with SQL and python programming
+* Proficiency with data mining, statistical modelling and predictive modeling
+* Knowledge of business intelligence \& reporting (Power BI, Tableau, Alteryx, etc.)
+* Ability to work effectively in a dynamic, research\-oriented group that has several concurrent projects.
+
+**Responsibilities:**
+
+* Collaborate with Data Scientists and cross\-functional teams to identify business opportunities and optimize performance.
+* Analyze large\-scale data to develop machine learning models and derive business value.
+* Utilize data mining, statistical techniques, and cloud setups for modeling and analysis.
+* Lead and develop the Data Science team, ensuring industry standards and collaboration with stakeholders.
+
+Job Type: Full\-time
+
+Pay: ₹800,000\.00 \- ₹1,800,000\.00 per year
+
+Benefits:
+
+* Health insurance
+
+Schedule:
+
+* Day shift
+
+Supplemental Pay:
+
+* Performance bonus
+
+Application Question(s):
+
+* How many years of experience do you have with Python \& SQL?
+
+Experience:
+
+* Data science: 4 years (Required)
+
+Work Location: In person","","https://www.glassdoor.com/Overview/W-EI_IE5793386.htm","https://media.glassdoor.com/sql/5793386/intellismith-squarelogo-1647330610008.png","","","","",""
+"go-EMtGiqIqdMKJY51CAAAAAA==","google","https://in.linkedin.com/jobs/view/sr-data-scientist-generative-ai-at-telescopp-4086551071?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Sr. Data Scientist - Generative AI","telescopp","Gurugram, Haryana","2024-12-01","","","","","","",False,"","","","","Skills:
+Python, TensorFlow, PyTorch, AWS bedrock, NoSQL Database, Data Management, Machine Learning, Analytical Skills,
+
+Job Overview
+
+We are looking for a Senior Data Scientist specializing in Generative AI to join our growing team. This is a full-time role. The ideal candidate will possess strong technical skills, particularly in AI and machine learning, to contribute effectively to our teams objectives.
+
+Software Requirements
+• Programming Languages: Python
+• Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn
+• Cloud Services: AWS Bedrock, AWS services
+• Data Management: SQL, NoSQL databases
+
+Overall Responsibilities
+• Design, train, and implement Large Language Models (LLMs) and Foundation Models (FMs) for generative AI applications.
+• Utilize AWS Bedrock to manage datasets and machine learning workflows efficiently.
+• Develop LLM solutions for monolith code analysis, code generation for refactoring towards microservices frameworks, and test automation frameworks.
+• Collaborate with cross-functional teams to deploy and integrate AI applications into business processes.
+• Participate in the global GenAI practice, including incubating ideas, developing new Proofs of Concept, and conducting AI research to enhance client offerings.
+
+Programming
+
+Technical Skills:
+• Proficiency in Python
+• Experience with machine learning libraries (TensorFlow, PyTorch, Scikit-learn)
+
+Cloud Services
+• AWS Bedrock
+• Other AWS services
+
+Data Management
+• SQL and NoSQL databases
+
+AI And Machine Learning
+• Expertise in LLMs and FMs
+• Experience with generative AI in a cloud environment
+
+Experience
+• 10-15 years of experience in data science and machine learning.
+• Over 6 months of experience with LLMs, FMs, and generative AI in a cloud environment, preferably AWS.
+• Proven ability to translate complex AI concepts into tangible business applications.
+
+Day-to-Day Activities
+• Design and implement generative AI models.
+• Manage and preprocess large datasets.
+• Collaborate with teams to integrate AI solutions into business processes.
+• Conduct research and develop new AI solutions.
+• Participate in code reviews and provide feedback.
+
+Qualifications
+• Degree or Postgraduate in Computer Science or related field (or equivalent industry experience).
+• Proficiency in Python and machine learning libraries.
+• Experience with AWS services and cloud-based AI solutions.
+• Strong understanding of data management and preprocessing techniques.
+
+Soft Skills
+• Excellent communication skills (verbal, written, and presentation).
+• Strong analytical and problem-solving skills.
+• Ability to work independently and as part of a team.
+• Strategic thinking with a research and development mindset.
+• Ability to influence multiple teams on technical considerations.","","","","","","","",""
+"go-MRc2nK3Z2DJI4bgTAAAAAA==","google","https://in.linkedin.com/jobs/view/data-scientist-ml-ai-at-chiselon-technologies-private-limited-4086534536?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data Scientist( ML AI )","Chiselon Technologies Private Limited","Gurugram, Haryana","2024-12-01","","","","","","",False,"","","","recruitment2@chiselontechnologies.com","Skills:
+Statistical Analysis, Machine Learning, Data Visualization, Python Programming, Big Data Technologies, GCP, Artificial Intelligence (AI), Pytrorch,
+
+Job Alert!
+
+""Seeking passionate individuals who are eager to make a difference and thrive in a dynamic, collaborative environment.""
+
+Job Description
+
+We are looking for a skilled Data Scientist with a strong background in Machine Learning and Artificial Intelligence to drive actionable insights from our vast datasets. As a member of our Data Science team, you will collaborate with cross-functional teams to develop and deploy ML/AI models that enhance our products/services and drive business growth.
+
+Responsibilities
+• Utilize advanced statistical and machine learning techniques to analyze complex datasets and extract valuable insights.
+• Design, develop, and implement machine learning algorithms and models to solve business problems and optimize processes.
+• Explore and experiment with new ML/AI techniques to improve model accuracy and performance.
+• Collaborate with software engineers and data engineers to deploy ML/AI models into production systems.
+• Conduct thorough testing and validation of ML/AI models to ensure robustness, reliability, and scalability.
+• Interpret and communicate findings to stakeholders through clear and compelling data visualizations, reports, and presentations.
+• Stay updated on the latest trends and advancements in machine learning, artificial intelligence, and related fields.
+
+Requirements
+• Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, or related field.
+• Proven experience as a Data Scientist, with a focus on machine learning and artificial intelligence.
+• Strong proficiency in programming languages such as Python, R, or Scala.
+• Hands-on experience with machine learning libraries and frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+• Solid understanding of statistical methods and techniques for data analysis.
+• Experience with big data technologies (e.g., Hadoop, Spark) is a plus.
+• Excellent problem-solving skills and attention to detail.
+• Strong communication and collaboration skills.
+• Ability to work independently and as part of a team in a fast-paced environment.
+
+""If you're ready to join a team that values innovation, collaboration, and personal growth, we want to hear from you. Apply now and let's shape the future together!""
+
+Email: recruitment2@chiselontechnologies.com
+
+#datascientist
+
+#python
+
+#pytorch
+
+#hadoop
+
+#spark
+
+#immediate
+
+#jobalert
+
+#opentowork
+
+#gurgaon
+
+Thanks In Advance","","","","","","","",""
+"go-dvr5lk3u0P9aQZUSAAAAAA==","google","https://in.linkedin.com/jobs/view/de-jobs-american-express-analyst-data-science-in-haryana-india-at-buck-global-llc-4088851723?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","DE Jobs - American Express Analyst-Data Science in Haryana, India","buck global llc","Gurugram, Haryana","2024-12-01","","","","","","",False,"","","","","You Lead the Way. Weve Got Your Back.
+
+With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities, and each other. Here, youll learn and grow as we help you create a career journey thats unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.
+
+At American Express, youll be recognized for your contributions, leadership, and impactevery colleague has the opportunity to share in the companys success. Together, well win as a team, striving to uphold our company values and powerful backing promise to provide the worlds best customer experience every day. And well do it with the utmost integrity, in an environment where everyone is seen, heard, and feels like they belong.
+
+Join Team Amex and let's lead the way together.
+
+How will you make an impact in this role? Job Responsibilities
+• Contribute to defining and articulation of long-term AI product strategy and roadmap with clearly defined business metrics and outcomes.
+• Solve complicated business problems by prioritization & ownership of products and solutions to meet business objectives.
+• Prioritize and manage product backlogs, by balancing the requirements of partners and stakeholders. Evaluate prospective features in AI Products pipeline against changing requirements in the direction of AI adoptions.
+• Contribute to all product lifecycle processes including market (external) research, competitive analysis, planning, positioning, roadmap development, requirements finalization, and product development.
+• Translate product roadmap into well-defined requirements and acceptance test criteria.
+• Drive end-to-end ML/AI product developments with a team of engineers and designers. Transform MVPs to production-grade capabilities in collaboration with engineering teams.
+• Contribute to ideation and launch of innovative ML/AI products and capabilities. Innovate ways to evangelize product to drive Amex-wide user adoption.
+• (For Learn): Curate and deliver technical training in AI, Cloud, Hive, and Spark for beginners to advanced level users.
+• Create POCs for best-in-class AI-ML innovative products with the potential to scale.
+
+Minimum Qualifications
+• Strong technical background in AI / ML with a background in Python, SQL, data analytics, and data visualization.
+• Strong quantitative, analytical, and structured problem-solving skills.
+• Familiarity with ML model development lifecycle (MDLC): feature selection and engineering, different ML model algorithm families, optimizations considerations for ML models, deployment and serving challenges.
+• Knowledge of Big Data Platforms such as Hadoop, Spark, and Cloud Platforms such as GCP.
+• Knowledge of designing and building big data tools and frameworks.
+• Demonstrate creativity and self-sufficiency along with strong interpersonal/ collaborative skills and experience working in global teams.
+• Understanding of the various ML Model deployment systems and processes with a basic knowledge of various model regulatory and governance policies.
+• Ability to prioritize well, communicate clearly and compellingly, and understand how to drive a high level of focus and excellence with a strong, talented, opinionated engineering, UX, and QA teams.
+• Knowledge of Notebook-based IDE for performing AI / ML tasks such as Jupyter and Airflow.
+• Familiarity with product management tools such as Rally, Jira, and Confluence.
+• Excellent verbal and written communications skills.
+• Undergraduate/Masters in Computer Science / Information Technology / Mathematics / Operations Research / Statistics, MBA from institutes of global repute.
+
+Qualifications
+
+Benefits
+
+We back our colleagues and their loved ones with benefits and programs that support their holistic well-being. That means we prioritize their physical, financial, and mental health through each stage of life. Benefits include:
+• Competitive base salaries
+• Bonus incentives
+• Support for financial well-being and retirement
+• Comprehensive medical, dental, vision, life insurance, and disability benefits (depending on location)
+• Flexible working model with hybrid, onsite, or virtual arrangements depending on role and business need
+• Generous paid parental leave policies (depending on your location)
+• Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)
+• Free and confidential counseling support through our Healthy Minds program
+• Career development and training opportunities
+
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+
+Offer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations.
+
+Job: Risk
+
+Primary Location: India-Haryana-Gurugram
+
+Other Locations: India-Karnataka-Bengaluru Urban
+
+Schedule: Full-time
+
+Req ID: 24022407","","","","","","","",""
+"go-i3PR3maWXG67wuFXAAAAAA==","google","https://in.linkedin.com/jobs/view/data-science-interns-at-zen-consultancy-4086547730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Data science interns","Zen consultancy","Gurugram, Haryana","2024-12-01","internship","","","","","",False,"","","","","Skills:
+Python programming, Statistical analysis, Machine learning, Data visualization, SQL database management, Data cleaning, Critical thinking, Problem-solving,
+
+Company Overview
+
+Zen Consultancy is dedicated to providing technology solutions for operational excellence in the IT Services and IT Consulting industry. They help clients navigate the technology landscape and achieve success in their core businesses.
+
+Job Overview
+
+Data Science Intern position with Zen Consultancy, a Tailor Made IT-Service company based in Delhi. This is an internship role suitable for candidates with less than 1 year of experience. Job location options include Bangalore Urban, Gurgaon, Noida, and Mumbai Suburban. Employment type varies from Full-Time to Freelance.
+
+Qualifications And Skills
+• Python programming proficiency
+• Experience in statistical analysis and machine learning
+• Ability to create impactful data visualizations
+• Knowledge of SQL database management
+• Strong data cleaning skills
+• Critical thinking and problem-solving abilities
+
+Roles And Responsibilities
+• Assist in data collection, cleaning, and analysis
+• Utilize Python for statistical analysis and machine learning tasks
+• Create data visualizations to communicate insights
+• Manage SQL databases and ensure data integrity
+• Apply critical thinking and problem-solving skills to optimize data processes","","","","","","","",""
+"go-FPfD_NmChaQrlJO_AAAAAA==","google","https://in.linkedin.com/jobs/view/senior-data-scientist-r-235971-at-mastercard-4089902266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic","","Senior Data Scientist-R-235971","Mastercard","Gurugram, Haryana","2024-11-28","","","","","","",False,"","","","","Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Senior Data Scientist
+
+Senior Data Scientist – Data & Analytics
+
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Job Title
+
+Senior Data Scientist
+
+Who is Mastercard?
+
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+
+Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
+
+Our Team
+
+As consumer preference for digital payments continues to grow, ensuring a seamless and secure consumer experience is top of mind. Optimization Solutions team focuses on tracking of digital performance across all products and regions, understanding the factors influencing performance and the broader industry landscape. This includes delivering data-driven insights and business recommendations, engaging directly with key external stakeholders on implementing optimization solutions (new and existing), and partnering across the organization to drive alignment and ensure action is taken.
+• Are you excited about Data Assets and the value they bring to an organization?
+• Are you an evangelist for data-driven decision-making?
+• Are you motivated to be part of a team that builds large-scale Analytical Capabilities supporting end users across 6 continents?
+• Do you want to be the go-to resource for data science & analytics in the company?
+
+The Role
+
+Work closely in collaboration with multiple internal business groups across Mastercard to implement End-to-End customer lifecycle solutions whilst utilizing Reltio.
+
+The candidate for this position will focus on Building End-to-End solution using Reltio/Databricks to blend data from multiple data sources (Salesforce, BigData, SQL Server) and creating actionable insights to transform siloed data from disparate sources into unified, trusted and interoperable data.
+
+Candidate should have a strong understanding of data management concepts and experience working with the Reltio platform. Candidate should have a solid understanding of cloud-based systems and should be able to work effectively in a team environment. Strong communication and collaboration skills are also important.
+
+Creating design documents, including data models, data flow diagrams, and system architecture diagrams.
+
+All About You
+• A superior academic record at a leading university in Computer Science, Data Science, Technology, mathematics, statistics, or a related field or equivalent work experience
+• 5+ Years of experience in using Python/Spark, Hadoop platforms & tools (Hive, Impala), and SQL to build Big Data products & platforms
+• 1+ Years experience working on end-to-end solutions using Reltio. Must have experience working on at least one end-to-end project on Reltio.
+• Ability to tune Reltio to meet performance requirements. Familiar with Data Cleansing, Data Quality, Data Governance and Data Migration concepts.
+• Familiarity with data integration technologies and techniques, including RIH processes, data pipelines, and data transformation.
+• Demonstrated success interacting with stakeholders to understand technical needs and ensuring analyses and solutions meet their needs effectively.
+• Able to work in a fast-paced, deadline-driven environment as part of a team and as an individual contributor.
+• Ability to easily move between business, analytical, and technical teams and articulate solution requirements for each group.
+• Experience with Enterprise Business Intelligence Platform/Data platform i.e. Tableau, PowerBI will be a plus.
+• Experience with cloud-based (SaaS) solutions, ETL processes or API integrations will be a plus.
+• Experience on Cloud Data Platforms Azure/AWS will be a plus.
+
+Education
+• Bachelor’s or Master’s Degree in a Computer Science, Information Technology, Engineering, Mathematics, Statistics, M.S./M.B.A. preferred
+
+Additional Competencies
+• Excellent English, quantitative, technical, and communication (oral/written) skills
+• Analytical/Problem Solving
+• Strong attention to detail and quality
+• Creativity/Innovation
+• Self-motivated, operates with a sense of urgency
+• Project Management/Risk Mitigation
+• Able to prioritize and perform multiple tasks simultaneously
+
+Corporate Security Responsibility
+
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+• Abide by Mastercard’s security policies and practices;
+• Ensure the confidentiality and integrity of the information being accessed;
+• Report any suspected information security violation or breach, and
+• Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+
+R-235971","","","","","","","",""
