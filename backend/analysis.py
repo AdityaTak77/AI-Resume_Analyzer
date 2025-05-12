@@ -13,7 +13,7 @@ os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
 
 # llm = LLM(
 #     model="gemini/gemini-1.5-pro-002",
-#     api_key="AIzaSyB7C_pdLgIGf9RHH5f9w9_nc90BI7sLAbE"
+#     api_key=""
 # )
 
 from langchain_google_genai import ChatGoogleGenerativeAI
