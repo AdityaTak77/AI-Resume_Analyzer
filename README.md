@@ -4,8 +4,6 @@
 
 The Resume Screening Tool is an innovative AI-powered platform designed to revolutionize the recruitment process by bridging the gap between students and recruiters through intelligent resume analysis and job matching.
 
-##Demo
-go to photos/demo1 and to photos/Screen Recording 2024-12-04 at 7.17.41 PM 
 
 ## Key Features
 
