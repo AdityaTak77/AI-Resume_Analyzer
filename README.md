@@ -1,4 +1,4 @@
-# Resume Screening Tool
+## Resume Screening Tool
 
 ## Project Overview
 
