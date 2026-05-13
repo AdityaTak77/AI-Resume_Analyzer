@@ -6,7 +6,7 @@ The Resume Screening Tool is an innovative AI-powered platform designed to revol
 
 
 ## Key Features
-
+Hi
 ### For Students
 - 🔍 Detailed Resume Analysis
 - 💡 Personalized Improvement Suggestions
